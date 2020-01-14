@@ -1,7 +1,7 @@
 # Remmonder-System-RTR
 Recommendation System for Rent The Runway, Columbia University
 
-![](https://i.ibb.co/C9f63qP/Project-Report-Rent-The-Runway-page-001.jpg)
+![](https://i.ibb.co/NTgzCxX/Final-report-github-page-001.jpg)
 ![](https://i.ibb.co/fv143G0/Project-Report-Rent-The-Runway-page-002.jpg)
 ![](https://i.ibb.co/SRb9W8d/Project-Report-Rent-The-Runway-page-003.jpg)
 ![](https://i.ibb.co/MPSvG6j/Project-Report-Rent-The-Runway-page-004.jpg)
